@@ -75,12 +75,9 @@ Required variables:
 1. Direct Prompting
 2. Chain-of-Thought Reasoning
 3. Template-Based with Few-Shot Examples
-4. Output Validation
-5. Criteria-Based Rating
-6. Self-Consistency
-7. Polarity Mapping
-8. Rule-Based
-9. Token Attention
+4. Tree of Thoughts Prompting
+5. Rule-Based
+6. Polarity Mapping
 
 ### To Run:
 ```bash
